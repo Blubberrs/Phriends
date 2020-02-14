@@ -1,1 +1,4 @@
-.
+.bodytitle {
+  text-shadow: 3px 3px 2px grey, -3px 3px 2px grey;
+  font-family: arial
+}
