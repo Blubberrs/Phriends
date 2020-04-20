@@ -2,7 +2,11 @@
   text-shadow: 3px 3px 2px grey, -3px 3px 2px grey;
   font-family: Arial;
 }
-@keyframes h1 {
+@keyframes intro {
   from {size:0%;}
   to {size:300%;}
+}
+h1 {
+  animation-name: intro;
+  animation-duration: 2s;
 }
